@@ -18,7 +18,7 @@ This project is a starting point for a Flutter application.
 => SharedPreferences
 
 1️⃣ Clone the Repository
----> git clone https://github.com/parthdev1912/flutter-vendor-catalogue.git
+---> git clone https://github.com/parthdev1912/vendor_catalogue_app.git
 ---> cd flutter-vendor-catalogue
 
 2️⃣ Install Dependencies
